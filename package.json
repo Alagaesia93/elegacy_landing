@@ -1,29 +1,29 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
-    "version": "4.1.1",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "title": "eLegacy",
+    "name": "eLegacy by eMemory",
+    "version": "1.0.0",
+    "description": "Ti aiutiamo a ritrovare tutti gli account e i dati dei tuoi cari e, se vuoi, a cancellarli",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "eredità",
+        "eredità digitale",
+        "inventario",
+        "ultime volontà",
+        "gestione personale",
+        "consulenza"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
+    "homepage": "https://elegacy.app",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/ememory/elegacy/issues",
+        "email": "info@ememory.it"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "eMemory",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Alessandro Macagno (https://github.com/Alagaesia93)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/ememory/elegacy.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
